@@ -290,7 +290,7 @@ Choose an aggregate/statistical operation:
             print("\nStandard Deviation:", np.std(self.array))
 
         elif choice == 5:
-            print("\nVariance:", np.ar(self.array))
+            print("\nVariance:", np.var(self.array))
 
 
 
